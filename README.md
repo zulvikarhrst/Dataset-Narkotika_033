@@ -1,7 +1,7 @@
 # Analisis Kasus Narkotika dan Psikotropika - PN Tangerang
 
 <p align="center">
-  <img src="assets/logo.png" alt="Logo Mahkamah Agung" width="200"/>
+  <img src="assets/logo.png" alt="Logo Mahkamah Agung" width="500"/>
 </p>
 
 **Deskripsi Singkat:**
